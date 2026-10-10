@@ -1,1 +1,5 @@
-{"appId": "com.bazaar.app", "appName": "بازارچه کسب و کار آنلاین", "webDir": "www"}
+{
+  "appId": "com.bazaar.online",
+  "appName": "بازارچه کسب و کار آنلاین",
+  "webDir": "www"
+}
